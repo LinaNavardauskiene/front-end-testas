@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Girl with emoji
+# Front-end-testas
 
 _Front end testas_
 
