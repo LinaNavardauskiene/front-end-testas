@@ -1,0 +1,39 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main {
+    width: 1000px;
+
+}
+.left-side {
+    display: inline-block;
+    width: 40%;
+    padding: 10px;
+    padding-right: 5px;
+
+
+}
+h1 {
+    display: inline;
+    color: #3751FF;
+
+}
+h2{
+
+}
+p{
+
+}
+.class {
+    width: 55%;
+}
+.img {
+    display: inline-block;
+    width: 55%;
+}
